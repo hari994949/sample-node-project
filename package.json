@@ -4,6 +4,7 @@
   "description": "Build node project by using npm install",
   "main": "index.js",
   "scripts": {
+    "build": "npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
